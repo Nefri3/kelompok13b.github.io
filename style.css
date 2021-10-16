@@ -4,6 +4,7 @@ body {
     background-color: rgba(34, 49, 52, 0.9);
 }
 
+
 .header {
     height: 65px;
     width: 100%;
@@ -39,6 +40,11 @@ body {
     padding: 5px;
     
   }
+
+  .top-wrapper marquee {
+    font-size: 40px;
+    
+}
 
   .main {
     padding: 0px;
@@ -114,9 +120,7 @@ body {
     display: flex;
     flex-wrap: wrap;
 }
-ul{
-    list-style: none;
-}
+
 .section-title {
   border-bottom: 2px solid black;
   font-size: 28px;
@@ -128,6 +132,9 @@ ul{
   padding-top: 100px;
   background-color: white;
 }
+.contact-form marquee {
+  font-size: 28px;
+  }
 
 
 input, textarea {
