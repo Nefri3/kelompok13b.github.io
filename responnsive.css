@@ -1,0 +1,39 @@
+
+/* Untuk Smartphone */
+@media all and (max-width: 670px) {
+  .content {
+    width: 100%;
+  }
+  
+  footer {
+    text-align: center;
+  }
+  
+  .btn {
+    width: 100%;
+  }
+  
+  .facebook {
+    margin-bottom: 10px;
+  }
+  
+  .top-wrapper {
+    text-align: left;
+  }
+  
+  
+  .header{
+    display:  none;
+  }
+  
+
+  
+  .content{
+    display:  block;
+  }
+  
+  
+  
+  
+  }
+}
