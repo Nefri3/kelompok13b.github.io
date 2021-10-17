@@ -124,6 +124,7 @@ main {
   max-width: 1700px;
   margin: auto;
 }
+
 .row {
   display: flex;
   flex-wrap: wrap;
@@ -140,6 +141,7 @@ main {
   padding-top: 100px;
   background-color: white;
 }
+
 .contact-form marquee {
   font-size: 28px;
 }
@@ -189,16 +191,19 @@ textarea {
   background-color: rgba(34, 49, 52, 0.9);
   padding: 50px 0;
 }
+
 .footer-col {
   width: 40%;
   padding: 0 15px;
 }
+
 .footer-col h4 {
   font-size: 20px;
   color: white;
   margin-bottom: 20px;
   font-weight: 300;
 }
+
 .footer-col h4::before {
   content: "";
   position: absolute;
@@ -213,6 +218,7 @@ textarea {
 .footer-col ul li:not(:last-child) {
   margin-bottom: 10px;
 }
+
 .footer-col ul li a {
   font-size: 14 1px;
   text-transform: capitalize;
@@ -228,6 +234,7 @@ textarea {
   color: white;
   padding-left: 6px;
 }
+
 .footer-col .social-links a {
   display: inline-block;
   height: 40px;
