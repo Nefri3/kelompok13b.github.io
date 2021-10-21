@@ -352,35 +352,6 @@ table {
 		margin-top: 5px;
 	}
 
-	.social-media-icon {
-		background: #222;
-		color: #fff;
-		border-radius: 4px;
-	}
-
-	a.social-media-icon:hover {
-		background: #fff !important;
-		color: #222 !important;
-	}
-
-	.facebook {
-		background: #3c5a98 !important;
-	}
-
-	.twitter {
-		background: #1da1f2 !important;
-	}
-
-	.blogger {
-		background: #ff5722 !important;
-		;
-	}
-
-	.instagram {
-		background: #c32aa3 !important;
-		;
-	}
-
 
 }
 
@@ -548,34 +519,6 @@ table {
 		transition: .5s all;
 	}
 
-	.social-media-icon {
-		background: #222;
-		color: #fff;
-		border-radius: 4px;
-	}
-
-	a.social-media-icon:hover {
-		background: #fff !important;
-		color: #222 !important;
-	}
-
-	.facebook {
-		background: #3c5a98 !important;
-	}
-
-	.twitter {
-		background: #1da1f2 !important;
-	}
-
-	.blogger {
-		background: #ff5722 !important;
-		;
-	}
-
-	.instagram {
-		background: #c32aa3 !important;
-		;
-	}
 
 
 
